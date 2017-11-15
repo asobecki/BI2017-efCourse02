@@ -1,0 +1,11 @@
+C:\Users\ja\source\repos\efCourse02\efCourse02\bin\Debug\netcoreapp2.0\efCourse02.deps.json
+C:\Users\ja\source\repos\efCourse02\efCourse02\bin\Debug\netcoreapp2.0\efCourse02.runtimeconfig.json
+C:\Users\ja\source\repos\efCourse02\efCourse02\bin\Debug\netcoreapp2.0\efCourse02.runtimeconfig.dev.json
+C:\Users\ja\source\repos\efCourse02\efCourse02\bin\Debug\netcoreapp2.0\efCourse02.dll
+C:\Users\ja\source\repos\efCourse02\efCourse02\obj\Debug\netcoreapp2.0\efCourse02.csprojResolveAssemblyReference.cache
+C:\Users\ja\source\repos\efCourse02\efCourse02\obj\Debug\netcoreapp2.0\efCourse02.csproj.CoreCompileInputs.cache
+C:\Users\ja\source\repos\efCourse02\efCourse02\obj\Debug\netcoreapp2.0\efCourse02.AssemblyInfoInputs.cache
+C:\Users\ja\source\repos\efCourse02\efCourse02\obj\Debug\netcoreapp2.0\efCourse02.AssemblyInfo.cs
+C:\Users\ja\source\repos\efCourse02\efCourse02\bin\Debug\netcoreapp2.0\efCourse02.pdb
+C:\Users\ja\source\repos\efCourse02\efCourse02\obj\Debug\netcoreapp2.0\efCourse02.dll
+C:\Users\ja\source\repos\efCourse02\efCourse02\obj\Debug\netcoreapp2.0\efCourse02.pdb
